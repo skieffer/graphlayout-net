@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="169px">
+<rect x="0" y="0" width="300" height="169" stroke="none" stroke-width="1" fill="#bdbddf"/>
+<g transform="scale(0.625),translate(118.28,20.00),scale(1.22),translate(-0.00,-0.00)">
+    <path d="M 183.98,64.000000 V 25.00 a 10.00,10.00 0 0,0 -10.00,-10.00L 135.02,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 135.01,173.000000L 135.01,113.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 75.00,15.000000L 15.00,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 135.01,113.000000 H 173.98 a 10.00,10.00 0 0,0 10.00,-10.00L 183.98,64.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 15.00,15.000000L 15.00,113.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 75.00,15.000000L 75.00,113.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 75.00,113.000000L 135.01,113.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 135.02,15.000000L 75.00,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 75.00,113.000000L 15.00,113.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 75.00,113.000000L 75.00,173.000000" stroke="black" stroke-width="1" fill="none"/>
+    <rect x="60.0043597304" y="98.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="120.009047595" y="98.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="168.982374633" y="49.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="120.019079627" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="0.0" y="98.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="60.0043597304" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="0.0" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="120.009047595" y="158.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="60.0043597304" y="158.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+</g>
+</svg>

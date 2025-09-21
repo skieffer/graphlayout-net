@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="169px">
+<rect x="0" y="0" width="300" height="169" stroke="none" stroke-width="1" fill="#bdbddf"/>
+<g transform="scale(0.625),translate(105.55,20.00),scale(0.71),translate(-16.96,-0.00)">
+    <path d="M 366.57,163.846154L 366.57,94.605292" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 179.81,163.850150L 243.73,163.850150" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 243.73,240.769231 V 296.69 a 10.00,10.00 0 0,1 -10.00,10.00L 179.81,306.692308" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 243.73,159.850150 H 221.77 a 10.00,10.00 0 0,1 -10.00,-10.00 V 109.92 a 10.00,10.00 0 0,0 -10.00,-10.00L 179.81,99.923077" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 179.81,99.923077L 105.88,99.923077" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 105.88,97.923077 H 73.92 a 10.00,10.00 0 0,1 -10.00,-10.00 V 79.21 a 10.00,10.00 0 0,0 -10.00,-10.00L 31.96,69.206529" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 105.88,101.923077 H 73.92 a 10.00,10.00 0 0,0 -10.00,10.00 V 123.13 a 10.00,10.00 0 0,1 -10.00,10.00L 31.96,133.129605" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 243.73,163.846154L 243.73,240.769231" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 366.57,94.605292 V 35.50 a 10.00,10.00 0 0,0 -10.00,-10.00L 313.63,25.500000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 243.73,163.846154L 366.57,163.846154" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 313.63,25.500000L 243.73,25.500000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 243.73,25.500000L 243.73,99.923077" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 243.73,99.923077L 243.73,163.846154" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 179.81,306.692308L 179.81,163.846154" stroke="black" stroke-width="1" fill="none"/>
+    <rect x="222.730769231" y="0.0" width="42.0" height="51.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="228.730769231" y="84.9230769231" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="228.730769231" y="148.846153846" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="164.807692308" y="84.9230769231" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="16.9615384615" y="54.2065285014" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="80.8846153846" y="84.9230769231" width="50.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="16.9615384615" y="118.129605424" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="228.730769231" y="212.769230769" width="30.0" height="56.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="164.807692308" y="291.692307692" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="164.807692308" y="148.846153846" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="351.570495536" y="148.846153846" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="340.070495536" y="79.6052917376" width="53.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="298.633704887" y="10.5" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+</g>
+</svg>

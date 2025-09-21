@@ -1,0 +1,98 @@
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.part1TableHeading {
+    text-align: center;
+}
+
+img.part1Layout {
+    margin: 8px;
+}
+
+.part1TableEntry {
+    position: relative;
+    width: 500px;
+    border: 1px solid white;
+}
+
+.part1TableEntry:hover {
+    border: 1px solid #777;
+}
+
+.part1Bars {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 180px;
+}
+
+.part1Bar {
+    position: absolute;
+    width: 25px;
+    bottom: 12px;
+}
+
+img.part2Layout {
+    width: 300px;
+    height: 300px;
+}
+
+.NONO {
+    color: #090;
+}
+
+.yFiles {
+    color: #fc0;
+}
+
+.Human {
+    color: #a00;
+}
+
+.goldBar {
+    background: #c5931e;
+}
+
+.silverBar {
+    background: #8f9092;
+}
+
+.bronzeBar {
+    background: #916528;
+}
+
+.scoreBar {
+    background: #8cf;
+}
+
+.blueText {
+    color: #8cf;
+    background: #777;
+}
+
+#topButton {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    padding: 5px 10px;
+    border-radius: 7px;
+    border: raised;
+    background: #004;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#topButton:hover {
+    background: #448;
+}
+
+.overlay {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+

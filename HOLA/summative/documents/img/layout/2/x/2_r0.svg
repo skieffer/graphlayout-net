@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="canvasSVG" xmlns="http://www.w3.org/2000/svg" width="1196.95px" height="1107.0px">
+<rect x="0" y="0" width="1196.95" height="1107.0" stroke="none" stroke-width="1" id="" onclick="null" fill="#bdbddf"/>
+<g id="outerGroup">
+<g transform="translate(20.00,20.00),scale(1.00),translate(-15.00,-0.00)">
+    <path d="M 669.95,992.000000 V 619.80 a 10.00,10.00 0 0,1 10.00,-10.00 H 712.46 a 1.00,1.00 0 0,0 1.00,-1.00L 713.46,607.800000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 688.97,124.000000 H 687.97 a 1.00,1.00 0 0,0 -1.00,1.00 V 508.40 a 10.00,10.00 0 0,0 10.00,10.00 H 701.46 a 10.00,10.00 0 0,1 10.00,10.00 V 606.80 a 1.00,1.00 0 0,0 1.00,1.00L 713.46,607.800000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 600.98,124.000000 H 688.97 a 0.00,0.00 0 0,1 0.00,0.00L 688.97,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,721.250000 H 392.49 a 0.00,0.00 0 0,1 0.00,0.00L 392.49,721.250000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 392.49,721.250000 V 894.00 a 10.00,10.00 0 0,0 10.00,10.00 H 682.82 a 10.00,10.00 0 0,1 10.00,10.00 V 928.01 a 3.99,3.99 0 0,0 3.99,3.99L 700.80,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1096.95,790.560000 H 1036.98 a 0.00,0.00 0 0,0 -0.00,0.00L 1036.98,790.560000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 525.98,739.000000 H 427.99 a 0.00,0.00 0 0,0 -0.00,0.00L 427.99,739.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,603.000000 V 604.00 a 1.00,1.00 0 0,0 1.00,1.00 H 515.98 a 10.00,10.00 0 0,1 10.00,10.00 V 641.00 a 0.00,0.00 0 0,0 0.00,0.00L 525.98,641.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 210.00,75.000000 V 260.00 a 0.00,0.00 0 0,0 0.00,0.00L 210.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 938.96,872.000000 V 870.00 a 2.00,2.00 0 0,0 -2.00,-2.00 H 924.46 a 10.00,10.00 0 0,1 -10.00,-10.00 V 617.80 a 10.00,10.00 0 0,0 -10.00,-10.00 H 713.46 a 0.00,0.00 0 0,0 -0.00,0.00L 713.46,607.800000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1036.95,992.000000 H 938.96 a 0.00,0.00 0 0,0 -0.00,0.00L 938.96,992.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 210.00,15.000000 V 75.00 a 0.00,0.00 0 0,0 0.00,0.00L 210.00,75.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 688.97,15.000000 V 124.00 a 0.00,0.00 0 0,0 0.00,0.00L 688.97,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 938.96,790.560000 V 872.00 a 0.00,0.00 0 0,0 0.00,0.00L 938.96,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,603.000000 V 602.00 a 1.00,1.00 0 0,1 1.00,-1.00 H 596.41 a 2.40,2.40 0 0,1 2.40,2.40 V 603.40 a 2.40,2.40 0 0,0 2.40,2.40 H 712.46 a 1.00,1.00 0 0,1 1.00,1.00L 713.46,607.800000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,721.250000 V 603.00 a 0.00,0.00 0 0,1 0.00,-0.00L 308.00,603.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 938.96,932.000000 V 872.00 a 0.00,0.00 0 0,1 0.00,-0.00L 938.96,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1156.95,932.000000 H 1096.95 a 0.00,0.00 0 0,0 -0.00,0.00L 1096.95,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 669.95,1052.000000 V 992.00 a 0.00,0.00 0 0,1 0.00,-0.00L 669.95,992.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,124.000000 V 260.00 a 0.00,0.00 0 0,0 0.00,0.00L 308.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,721.250000 V 932.00 a 0.00,0.00 0 0,0 0.00,0.00L 308.00,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 600.98,64.000000 H 738.97 a 10.00,10.00 0 0,1 10.00,10.00 V 124.00 a 0.00,0.00 0 0,0 0.00,0.00L 748.97,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 150.00,124.000000 V 260.00 a 0.00,0.00 0 0,0 0.00,0.00L 150.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 688.97,15.000000 H 449.48 a 0.00,0.00 0 0,0 -0.00,0.00L 449.48,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,260.000000 H 534.98 a 10.00,10.00 0 0,1 10.00,10.00 V 429.00 a 0.00,0.00 0 0,0 0.00,0.00L 544.98,429.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1096.95,790.560000 V 872.00 a 0.00,0.00 0 0,0 0.00,0.00L 1096.95,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 525.98,932.000000 V 739.00 a 0.00,0.00 0 0,1 0.00,-0.00L 525.98,739.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 669.95,992.000000 H 525.98 a 0.00,0.00 0 0,0 -0.00,0.00L 525.98,992.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 367.98,663.000000 V 603.00 a 0.00,0.00 0 0,1 0.00,-0.00L 367.98,603.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 889.95,641.000000 H 1096.95 a 0.00,0.00 0 0,1 0.00,0.00L 1096.95,641.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 30.00,170.460000 H 50.00 a 10.00,10.00 0 0,1 10.00,10.00 V 188.00 a 10.00,10.00 0 0,0 10.00,10.00 H 89.00 a 1.00,1.00 0 0,1 1.00,1.00L 90.00,200.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,124.000000 H 308.00 a 0.00,0.00 0 0,0 -0.00,0.00L 308.00,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 150.00,320.000000 H 196.00 a 10.00,10.00 0 0,0 10.00,-10.00 V 262.00 a 2.00,2.00 0 0,1 2.00,-2.00L 210.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 748.97,124.000000 H 688.97 a 0.00,0.00 0 0,0 -0.00,0.00L 688.97,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 449.48,15.000000 H 210.00 a 0.00,0.00 0 0,0 -0.00,0.00L 210.00,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 210.00,260.000000 H 212.00 a 2.00,2.00 0 0,1 2.00,2.00 V 525.00 a 10.00,10.00 0 0,0 10.00,10.00 H 413.99 a 10.00,10.00 0 0,1 10.00,10.00 V 601.00 a 2.00,2.00 0 0,0 2.00,2.00L 427.99,603.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,799.000000 V 739.00 a 0.00,0.00 0 0,1 0.00,-0.00L 427.99,739.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1096.95,641.000000 V 790.56 a 0.00,0.00 0 0,0 0.00,0.00L 1096.95,790.560000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 700.80,932.000000 H 700.81 a 0.01,0.01 0 0,0 0.01,-0.01 V 872.01 a 0.01,0.01 0 0,0 -0.01,-0.01L 700.80,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 600.98,124.000000 V 64.00 a 0.00,0.00 0 0,1 0.00,-0.00L 600.98,64.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1096.95,872.000000 H 938.96 a 0.00,0.00 0 0,0 -0.00,0.00L 938.96,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,932.000000 H 525.98 a 0.00,0.00 0 0,1 0.00,0.00L 525.98,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 726.97,429.000000 H 739.47 a 10.00,10.00 0 0,1 10.00,10.00 V 729.00 a 10.00,10.00 0 0,1 -10.00,10.00 H 700.80 a 0.00,0.00 0 0,0 -0.00,0.00L 700.80,739.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 889.95,641.000000 V 643.00 a 2.00,2.00 0 0,1 -2.00,2.00 H 688.30 a 10.00,10.00 0 0,0 -10.00,10.00 V 890.74 a 9.26,9.26 0 0,0 9.26,9.26 H 687.56 a 9.26,9.26 0 0,1 9.26,9.26 V 930.01 a 1.99,1.99 0 0,0 1.99,1.99L 700.80,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 700.80,739.000000 H 525.98 a 0.00,0.00 0 0,0 -0.00,0.00L 525.98,739.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 525.98,641.000000 V 739.00 a 0.00,0.00 0 0,0 0.00,0.00L 525.98,739.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 938.96,730.560000 V 790.56 a 0.00,0.00 0 0,0 0.00,0.00L 938.96,790.560000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,603.000000 H 367.98 a 0.00,0.00 0 0,1 0.00,0.00L 367.98,603.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1036.95,992.000000 V 932.00 a 0.00,0.00 0 0,1 0.00,-0.00L 1036.95,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,211.000000 V 124.00 a 0.00,0.00 0 0,1 0.00,-0.00L 427.99,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,124.000000 H 600.98 a 0.00,0.00 0 0,1 0.00,0.00L 600.98,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1096.95,932.000000 H 1036.95 a 0.00,0.00 0 0,0 -0.00,0.00L 1036.95,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 544.98,429.000000 H 726.97 a 0.00,0.00 0 0,1 0.00,0.00L 726.97,429.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 30.00,230.460000 H 50.00 a 10.00,10.00 0 0,0 10.00,-10.00 V 212.00 a 10.00,10.00 0 0,1 10.00,-10.00 H 89.00 a 1.00,1.00 0 0,0 1.00,-1.00L 90.00,200.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 150.00,260.000000 H 210.00 a 0.00,0.00 0 0,1 0.00,0.00L 210.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 544.98,429.000000 V 431.00 a 2.00,2.00 0 0,0 2.00,2.00 H 584.81 a 10.00,10.00 0 0,1 10.00,10.00 V 862.00 a 10.00,10.00 0 0,0 10.00,10.00 H 700.80 a 0.00,0.00 0 0,1 0.00,0.00L 700.80,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1036.95,932.000000 V 886.00 a 10.00,10.00 0 0,0 -10.00,-10.00 H 940.96 a 2.00,2.00 0 0,1 -2.00,-2.00L 938.96,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 210.00,721.250000 V 260.00 a 0.00,0.00 0 0,1 0.00,-0.00L 210.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 367.98,603.000000 H 427.99 a 0.00,0.00 0 0,1 0.00,0.00L 427.99,603.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 700.80,872.000000 H 704.79 a 4.00,4.00 0 0,0 4.00,-4.00 V 812.75 a 7.25,7.25 0 0,1 7.25,-7.25 H 716.04 a 7.25,7.25 0 0,0 7.25,-7.25 V 700.00 a 10.00,10.00 0 0,0 -10.00,-10.00 H 441.98 a 10.00,10.00 0 0,1 -10.00,-10.00 V 605.00 a 2.00,2.00 0 0,0 -2.00,-2.00L 427.99,603.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1156.95,790.560000 H 1096.95 a 0.00,0.00 0 0,0 -0.00,0.00L 1096.95,790.560000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,347.000000 V 407.00 a 0.00,0.00 0 0,0 0.00,0.00L 427.99,407.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,407.000000 V 467.00 a 0.00,0.00 0 0,0 0.00,0.00L 427.99,467.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 308.00,603.000000 V 260.00 a 0.00,0.00 0 0,1 0.00,-0.00L 308.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 700.80,872.000000 H 700.79 a 0.00,0.00 0 0,1 -0.00,-0.00 V 739.00 a 0.00,0.00 0 0,1 0.00,-0.00L 700.80,739.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 889.95,641.000000 H 525.98 a 0.00,0.00 0 0,0 -0.00,0.00L 525.98,641.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 1036.98,790.560000 H 938.96 a 0.00,0.00 0 0,0 -0.00,0.00L 938.96,790.560000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 938.96,992.000000 V 932.00 a 0.00,0.00 0 0,1 0.00,-0.00L 938.96,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 210.00,721.250000 H 308.00 a 0.00,0.00 0 0,1 0.00,0.00L 308.00,721.250000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 726.97,429.000000 V 427.00 a 2.00,2.00 0 0,0 -2.00,-2.00 H 700.97 a 10.00,10.00 0 0,1 -10.00,-10.00 V 125.00 a 1.00,1.00 0 0,0 -1.00,-1.00L 688.97,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,603.000000 V 467.00 a 0.00,0.00 0 0,1 0.00,-0.00L 427.99,467.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,211.000000 H 224.00 a 10.00,10.00 0 0,0 -10.00,10.00 V 258.00 a 2.00,2.00 0 0,1 -2.00,2.00L 210.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 90.00,260.000000 H 150.00 a 0.00,0.00 0 0,1 0.00,0.00L 150.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 150.00,124.000000 H 308.00 a 0.00,0.00 0 0,1 0.00,0.00L 308.00,124.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 700.80,872.000000 H 702.79 a 2.00,2.00 0 0,0 2.00,-2.00 V 800.56 a 10.00,10.00 0 0,1 10.00,-10.00 H 938.96 a 0.00,0.00 0 0,1 0.00,0.00L 938.96,790.560000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,739.000000 H 427.99 a 0.00,0.00 0 0,1 -0.00,-0.00 V 603.00 a 0.00,0.00 0 0,1 0.00,-0.00L 427.99,603.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 90.00,200.000000 H 110.00 a 10.00,10.00 0 0,1 10.00,10.00 V 246.00 a 10.00,10.00 0 0,0 10.00,10.00 H 148.00 a 2.00,2.00 0 0,1 2.00,2.00L 150.00,260.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 700.80,872.000000 H 938.96 a 0.00,0.00 0 0,1 0.00,0.00L 938.96,872.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 525.98,992.000000 V 932.00 a 0.00,0.00 0 0,1 0.00,-0.00L 525.98,932.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 427.99,467.000000 H 705.46 a 10.00,10.00 0 0,1 10.00,10.00 V 606.80 a 1.00,1.00 0 0,1 -1.00,1.00L 713.46,607.800000" stroke="black" stroke-width="1" fill="none"/>
+    <rect x="698.46" y="592.8" width="30.0" height="30.0" stroke="black" stroke-width="1" id="0" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="673.97" y="109.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="1" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="733.97" y="109.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="2" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="923.96" y="857.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="3" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="588.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="4" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1021.95" y="917.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="5" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1081.95" y="917.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="6" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="923.96" y="775.56" width="30.0" height="30.0" stroke="black" stroke-width="1" id="7" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="452.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="8" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1021.98" y="775.56" width="30.0" height="30.0" stroke="black" stroke-width="1" id="9" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="585.98" y="49.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="10" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="352.98" y="588.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="11" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="724.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="12" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="510.98" y="724.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="13" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="195.0" y="245.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="14" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="135.0" y="245.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="15" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="510.98" y="626.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="16" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="75.0" y="185.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="17" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="195.0" y="60.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="18" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="510.98" y="917.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="19" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="195.0" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="20" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="685.8" y="857.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="21" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="784.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="22" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="352.98" y="648.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="23" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="510.98" y="977.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="24" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="711.97" y="414.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="25" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="923.96" y="917.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="26" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="529.98" y="414.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="27" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="923.96" y="715.56" width="30.0" height="30.0" stroke="black" stroke-width="1" id="28" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="15.0" y="155.46" width="30.0" height="30.0" stroke="black" stroke-width="1" id="29" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="15.0" y="215.46" width="30.0" height="30.0" stroke="black" stroke-width="1" id="30" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="392.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="31" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1141.95" y="917.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="32" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="135.0" y="109.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="33" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1081.95" y="857.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="34" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="923.96" y="977.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="35" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="685.8" y="917.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="36" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="434.48" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="37" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="195.0" y="706.25" width="30.0" height="30.0" stroke="black" stroke-width="1" id="38" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="377.49" y="706.25" width="30.0" height="30.0" stroke="black" stroke-width="1" id="39" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="293.0" y="245.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="40" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="654.95" y="977.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="41" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1021.95" y="977.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="42" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="135.0" y="305.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="43" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="293.0" y="917.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="44" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="585.98" y="109.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="45" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1081.95" y="775.56" width="30.0" height="30.0" stroke="black" stroke-width="1" id="46" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="293.0" y="588.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="47" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="75.0" y="245.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="48" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="293.0" y="109.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="49" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1081.95" y="626.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="50" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="332.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="51" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="874.95" y="626.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="52" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="673.97" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="53" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="109.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="54" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="685.8" y="724.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="55" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="293.0" y="706.25" width="30.0" height="30.0" stroke="black" stroke-width="1" id="56" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="654.95" y="1037.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="57" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="1141.95" y="775.56" width="30.0" height="30.0" stroke="black" stroke-width="1" id="58" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+    <rect x="412.99" y="196.0" width="30.0" height="30.0" stroke="black" stroke-width="1" id="59" onclick="ow3.nodeClick(this)" fill="#f0f0d2"/>
+
+</g>
+</g>
+</svg>

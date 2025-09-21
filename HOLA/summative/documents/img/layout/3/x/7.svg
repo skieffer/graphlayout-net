@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="169px">
+<rect x="0" y="0" width="300" height="169" stroke="none" stroke-width="1" fill="#bdbddf"/>
+<g transform="scale(0.625),translate(59.52,20.00),scale(1.09),translate(-0.00,-0.00)">
+    <path d="M 74.99,75.000000L 15.00,75.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 134.98,15.000000L 134.98,135.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 134.98,135.000000L 194.98,135.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 134.98,135.000000L 15.00,135.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 15.00,135.000000L 15.00,75.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 74.99,15.000000L 134.98,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 254.98,167.141862 H 274.98 a 10.00,10.00 0 0,1 10.00,10.00 V 185.25 a 10.00,10.00 0 0,0 10.00,10.00L 314.98,195.253375" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 254.98,163.141862 H 274.98 a 10.00,10.00 0 0,0 10.00,-10.00 V 145.25 a 10.00,10.00 0 0,1 10.00,-10.00L 314.98,135.253375" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 15.00,15.000000L 74.99,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 194.98,137.000000 H 214.98 a 10.00,10.00 0 0,1 10.00,10.00 V 155.14 a 10.00,10.00 0 0,0 10.00,10.00L 254.98,165.141862" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 194.98,133.000000 H 214.98 a 10.00,10.00 0 0,0 10.00,-10.00 V 115.14 a 10.00,10.00 0 0,1 10.00,-10.00L 254.98,105.141862" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 15.00,75.000000L 15.00,15.000000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 74.99,15.000000L 74.99,75.000000" stroke="black" stroke-width="1" fill="none"/>
+    <rect x="119.977531834" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="119.977531834" y="120.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="0.0" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="0.0" y="120.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="59.9892504821" y="0.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="59.9892504821" y="60.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="0.0" y="60.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="179.977531834" y="120.0" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="239.977531834" y="90.1418617301" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="239.977531834" y="150.14186173" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="299.977531834" y="120.253374871" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="299.977531834" y="180.253374871" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="169px">
+<rect x="0" y="0" width="300" height="169" stroke="none" stroke-width="1" fill="#bdbddf"/>
+<g transform="scale(0.625),translate(117.60,57.00),scale(1.5),translate(-0.00,-33.97)">
+    <path d="M 154.24,66.125000 V 43.97 a 10.00,10.00 0 0,0 -10.00,-10.00 H 25.00 a 10.00,10.00 0 0,0 -10.00,10.00L 15.00,66.125000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 79.62,130.750000 H 144.24 a 10.00,10.00 0 0,0 10.00,-10.00L 154.24,66.125000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 154.24,66.125000L 79.62,66.125000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 79.62,66.125000L 79.62,130.750000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 79.62,66.125000L 15.00,66.125000" stroke="black" stroke-width="1" fill="none"/>
+    <path d="M 15.00,66.125000 V 120.75 a 10.00,10.00 0 0,0 10.00,10.00L 79.62,130.750000" stroke="black" stroke-width="1" fill="none"/>
+    <rect x="64.6152889353" y="51.125" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="129.240717286" y="51.125" width="50.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="0.0" y="42.625" width="30.0" height="47.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+    <rect x="64.6152889353" y="115.75" width="30.0" height="30.0" stroke="black" stroke-width="1" fill="#f0f0d2"/>
+</g>
+</svg>
